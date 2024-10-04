@@ -1,19 +1,36 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: World Mental Health Day
+author: Leonardo Mosquera
 date: 2021-05-01
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: Taking care of ourselves
+description: World Mental Health Day, observed annually on October 10th, serves as an opportunity to increase awareness of the impact that mental health challenges have on millions of people worldwide. The day also aims to inform and educate the public about these issues.
+
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+Mental Health Facts
+Globally, approximately one in four individuals will experience some form of mental illness at some point in their lives. Currently, around 450 million people are living with a mental health condition, making it one of the most widespread health challenges across the globe. Despite this, discussions around mental health are often avoided, largely due to persistent stigma and misunderstandings.
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+The Significance of World Mental Health Day
+World Mental Health Day (WMHD) was first recognized in 1992 with the goal of shedding light on the prevalence of mental health issues, combating stigma, and advocating for better conditions and care for those affected. Over time, the number of people and organizations participating in this observance has grown significantly. In several countries, like Australia, Mental Health Week is observed, with WMHD as a key component on October 10th. Each year, the day focuses on a different theme. For instance, in 2017, the emphasis was on mental health in the workplace.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+Mental Health in the Workplace
+Employers play a vital role in creating environments that support mental well-being. A healthy work environment can lead to fewer days lost to illness. Encouraging staff to maintain a healthy work–life balance, including taking regular breaks and avoiding work during evenings and weekends, is essential. Employees should also feel safe discussing their mental health concerns with their managers, who should respond with understanding and support.
+
+Physical Activity for Mental Well-being
+It's important for individuals to take care of their own mental health. While it's common knowledge that physical exercise benefits the body, it's also incredibly valuable for mental health. Engaging in regular exercise can help alleviate symptoms of anxiety and depression. Spending time outdoors, particularly in natural surroundings, can promote relaxation and reduce stress levels. So, why not incorporate some physical activity by walking in a nearby park or the countryside?
+
+Nutrition and Mental Health
+What we eat can have a significant impact on how we feel. Consuming sugary and processed foods like chips, cake, and candy can cause blood sugar spikes and drops, leading to irritability and fatigue. To maintain a positive mood, ensure your diet includes plenty of fruits and vegetables, which provide the essential nutrients your body needs. Additionally, staying hydrated by drinking enough water can help keep your mind sharp and improve concentration.
+
+Social Connections Matter
+While it's important to have time alone, spending quality time with others can greatly benefit your mental well-being. If you're feeling isolated, consider volunteering. It's a great way to meet new people while contributing to a good cause. Research has shown that nearly half of those who volunteered for more than two years reported a decrease in feelings of depression. If you have a supportive network of family and friends, share your feelings with them—they can help provide the emotional support you need. Every conversation about mental health helps to break down stigma.
+
+How to Observe World Mental Health Day
+World Mental Health Day is a reminder for us all to be mindful of our mental well-being and that of others. In addition to taking care of yourself, consider ways you can support those around you. Learn more about common mental health challenges such as anxiety and depression to better understand what others might be going through. You might also encourage your workplace to implement a wellness program, which could include activities like free fitness classes or lunchtime walking groups. Studies show that companies with such initiatives report a 28% reduction in sick days taken by employees.
+
+This day is a great opportunity to reflect on how we can take better care of our mental health and support the mental well-being of those around us.

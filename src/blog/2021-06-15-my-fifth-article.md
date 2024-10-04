@@ -1,11 +1,11 @@
 ---
-title: My Fifth Article
-author: Kevin Powell
+title: New york City
+author: Leonardo Mosquera
 date: 2021-06-15
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+description: Welcome to the Big Apple, where the lights are as bright as its aspirations and the streets as lively as its history! Whether you’re a first-time visitor or a seasoned New York veteran, navigating the myriad of things to do in New York City, New York, can be as exhilarating as it is overwhelming. This city never sleeps, and neither does its list of activities. From the dizzying heights of the Empire State Building to the tranquil paths of Central Park, New York City offers a dizzying array of iconic attractions, cultural haunts, and hidden gems waiting to be discovered. 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst.

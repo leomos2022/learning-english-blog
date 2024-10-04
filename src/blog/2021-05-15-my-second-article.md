@@ -1,19 +1,30 @@
 ---
-title: My Second Article
-author: Kevin Powell
-date: 2021-05-15
-tags: ["post", "featured"]
+title: Bogota’s Monserrate church
+author: Adrian Alsema
+date: 2020-01-19
+
 image: /assets/blog/article-2.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: Bogota’s Monserrate hill
+description: Bogota’s Monserrate church is located on a site that is as sacred now as it was centuries before Spanish conquistadors invaded the heartland of the Muisca people.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt id. Sit amet nulla facilisi morbi tempus iaculis urna id volutpat. Erat nam at lectus urna duis convallis convallis. Purus faucibus ornare suspendisse sed nisi. Mauris rhoncus aenean vel elit. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Tellus rutrum tellus pellentesque eu tincidunt tortor. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Eu mi bibendum neque egestas congue quisque.
+While currently a pilgrimage site for Catholics, the Muiscas revered the Monserrate hill because it’s where the sun rises during the summer solstice when observed from what is now Bolivar Square.
 
-Nec ultrices dui sapien eget mi proin sed libero enim. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Aliquam id diam maecenas ultricies mi. Faucibus in ornare quam viverra. Nisi est sit amet facilisis magna etiam tempor orci eu. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Cras pulvinar mattis nunc sed. Pharetra et ultrices neque ornare aenean euismod elementum. Urna duis convallis convallis tellus. Donec massa sapien faucibus et. Id faucibus nisl tincidunt eget nullam non. Quam pellentesque nec nam aliquam sem et tortor consequat.
+The square that is now the center of Colombia’s politics was a sacred site from where the former inhabitants of Bogota where they were able to link solstices and equinoxes with specific sites located on hills in the east.
 
-Ac auctor augue mauris augue neque. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Arcu ac tortor dignissim convallis aenean. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Porttitor eget dolor morbi non. Quis lectus nulla at volutpat diam ut venenatis tellus. Ultricies leo integer malesuada nunc vel risus. Facilisis sed odio morbi quis commodo odio aenean.
+The Monserrate hill, or “Grandmothers Foot” a the Muisca people called it, was associated with with the sun god Sue while the Guadalupe hill, or “Grandfather’s Foot,” was associated with the moon goddess Chia.
 
-Commodo ullamcorper a lacus vestibulum sed arcu non odio euismod. Sit amet cursus sit amet dictum sit amet justo. Euismod lacinia at quis risus sed vulputate odio ut. Malesuada pellentesque elit eget gravida. Diam donec adipiscing tristique risus nec. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aenean euismod elementum nisi quis eleifend quam adipiscing vitae proin. Nibh ipsum consequat nisl vel. Sit amet consectetur adipiscing elit. Porta nibh venenatis cras sed felis eget. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Orci phasellus egestas tellus rutrum. Ac felis donec et odio pellentesque diam volutpat commodo sed. Viverra nam libero justo laoreet sit amet cursus sit amet. Duis at consectetur lorem donec massa sapien faucibus. Et leo duis ut diam quam nulla porttitor massa. Eros donec ac odio tempor. Massa ultricies mi quis hendrerit. Semper quis lectus nulla at volutpat diam ut venenatis.
+Some 80 years after the Spanish arrived in Bogota in 1537, a religious order called the “Brotherhood of Vera Cruz” appropriated the hill, which was called to carry out their own religious rituals.
 
-Urna condimentum mattis pellentesque id nibh tortor id aliquet. Mollis nunc sed id semper risus in. Morbi blandit cursus risus at ultrices mi. Lectus vestibulum mattis ullamcorper velit. Facilisis mauris sit amet massa vitae tortor. Ullamcorper sit amet risus nullam. Nunc sed blandit libero volutpat sed. Ut tortor pretium viverra suspendisse potenti nullam ac tortor. Convallis convallis tellus id interdum velit laoreet id. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Non nisi est sit amet facilisis magna etiam tempor. Nisl nunc mi ipsum faucibus vitae.
+Other Christian worshipers soon followed and established the pilgrimage walk from downtown Bogota to the top of the hill that towers some 500 meters over the city,
+
+The hill was dubbed “Las Nieves” in 1620 when Spanish and religious authorities began erecting the first chapel dedicated to “Our Lady of Monserrat” and a hermitage.
+The hill was renamed Monserrate when local worshipers, the archbishop and local authorities decided to build a hermitage retreat and construct a pathway up the hill with multiple chapels for pilgrims to worship.
+
+The site’s religious meaning accidentally changed during the reconstruction period after a local cleric decided to remove a statue of Jesus Christ from a carved crucifix that had been carved for the site.
+
+Locals informally began referring to the main chapel as that of “The Fallen Lord” and, instead of worshiping the original saint, the locals began worshiping the Christ statue that had been taken down.
+This unintended change in religious significance slowly made the statue of Maria to which the site was dedicated and named obsolete.
+
+The sculpture of the saint was removed all together in the 19th century. Only her name remained.
+
